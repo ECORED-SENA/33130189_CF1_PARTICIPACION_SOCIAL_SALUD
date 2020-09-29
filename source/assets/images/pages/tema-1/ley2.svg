@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="749" height="129" viewBox="0 0 749 129">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fffcf5"/>
+      <stop offset="1" stop-color="#fff9ec"/>
+    </radialGradient>
+    <filter id="Unión_12" x="0" y="0" width="749" height="129" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#7e7e7e" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.039" x2="0.5" y2="1.054" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset="0.014" stop-color="#fee72e"/>
+      <stop offset="0.042" stop-color="#fed51b"/>
+      <stop offset="0.07" stop-color="#fdca10"/>
+      <stop offset="0.1" stop-color="#fdc70c"/>
+      <stop offset="0.4" stop-color="#f3903f"/>
+      <stop offset="0.8" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93e3a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="-8.676" y2="24.114" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" y1="-10.676" y2="22.114" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" y1="-12.676" y2="20.114" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_12802" data-name="Grupo 12802" transform="translate(-420.5 -3701.5)">
+    <g transform="matrix(1, 0, 0, 1, 420.5, 3701.5)" filter="url(#Unión_12)">
+      <path id="Unión_12-2" data-name="Unión 12" d="M-713.891,6862a3,3,0,0,1-3-3v-37L-734,6802.87l17.109-19.129V6745a3,3,0,0,1,3-3H3a3,3,0,0,1,3,3v114a3,3,0,0,1-3,3Z" transform="translate(738.5 -6740.5)" fill="url(#radial-gradient)"/>
+    </g>
+    <text id="Señala_en_su_artículo_136_que_el_hoy_Ministerio_de_Salud_y_Protección_Social_definirá_una_política_nacional_de_participación_social_PPSS_que_tenga_como_objetivos:_" data-name="Señala, en su artículo 136, que el hoy Ministerio de Salud y Protección Social definirá una política nacional de participación social, PPSS, que tenga como objetivos: " transform="translate(595 3728)" fill="#2b2b2b" font-size="16" font-family="Helvetica"><tspan x="0" y="12">Señala, en su artículo 136, que el hoy Ministerio de Salud y Protección </tspan><tspan x="0" y="34">Social definirá una política nacional de participación social, PPSS, que tenga </tspan><tspan x="0" y="56">como objetivos: </tspan></text>
+    <g id="smartphone-hand-book-ebook-reading" transform="translate(493 3730.5)">
+      <path id="Trazado_11136" data-name="Trazado 11136" d="M60.508,12.908H57.533v-.992a.992.992,0,0,0-.992-.992H42.658a.992.992,0,0,0-.992.992v.992H39.683v-.992a.992.992,0,0,0-.992-.992H36.708V4.975A2.984,2.984,0,0,0,33.733,2H10.925A2.984,2.984,0,0,0,7.95,4.975V24.808H6.958A4.958,4.958,0,0,0,2,29.767v4.056L3.983,54.558v5.95a.992.992,0,0,0,.992.992H26.792a.992.992,0,0,0,.992-.992V54.856L31.294,49.6h2.439a2.984,2.984,0,0,0,2.975-2.975v-5.95h23.8a.992.992,0,0,0,.992-.992V13.9A.992.992,0,0,0,60.508,12.908Zm-16.858,0h11.9V34.725H43.65Zm-3.967,1.983h1.983V35.717a.992.992,0,1,1-1.983,0ZM37.7,12.908V34.725H25.8V12.908ZM25.8,59.517H5.967V55.55H25.8Zm.456-5.95H5.877L3.983,33.733V29.767a2.984,2.984,0,0,1,2.975-2.975h5.95a2.975,2.975,0,0,1,0,5.95H8.942a.992.992,0,0,0-.992.992V46.625A2.984,2.984,0,0,0,10.925,49.6H28.9Zm8.469-6.942a.992.992,0,0,1-.992.992H10.925a.992.992,0,0,1-.992-.992v-11.9h2.975a4.958,4.958,0,0,0,0-9.917H9.933V4.975a.992.992,0,0,1,.992-.992H33.733a.992.992,0,0,1,.992.992v5.95H24.808a.992.992,0,0,0-.992.992v.992H20.842a.992.992,0,0,0-.992.992V39.683a.992.992,0,0,0,.992.992H34.725Zm24.792-7.933H21.833v-23.8h1.983V35.717a.992.992,0,0,0,.992.992h13.07a2.963,2.963,0,0,0,5.593,0h13.07a.992.992,0,0,0,.992-.992V14.892h1.983Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_11137" data-name="Trazado 11137" d="M28,17h1.983v1.983H28Z" transform="translate(-0.217 -0.125)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_11138" data-name="Trazado 11138" d="M32,17h3.967v1.983H32Z" transform="translate(-0.25 -0.125)" fill="url(#linear-gradient-2)"/>
+      <g id="Grupo_12578" data-name="Grupo 12578" transform="translate(27.783 20.842)">
+        <path id="Trazado_11139" data-name="Trazado 11139" d="M28,21h7.933v1.983H28Z" transform="translate(-28 -21)" fill="url(#linear-gradient-4)"/>
+        <path id="Trazado_11140" data-name="Trazado 11140" d="M28,25h7.933v1.983H28Z" transform="translate(-28 -21.033)" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

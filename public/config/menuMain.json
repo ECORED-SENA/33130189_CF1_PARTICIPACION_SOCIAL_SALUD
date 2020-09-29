@@ -1,0 +1,57 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "1. Introducción",
+    "breadcrumb": ["Inicio","introduccion"],
+    "path": "pages/introduccion.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "antecedentes",
+    "title": "2. Antecedentes",
+    "breadcrumb": [
+      "Inicio",
+      "Tema 2"
+    ],
+    "path": "pages/1-tema.html"
+  },  
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "normatividad",
+    "title": "3. Normatividad",
+    "breadcrumb": [
+      "Inicio",
+      "Tema 3"
+    ],
+    "path": "pages/2-tema.html"
+  }, 
+  {
+    "id": 4,
+    "icon": "fa fa-file-text-o",
+    "slug": "marcoestrategico",
+    "title": "4. Marco estratégico",
+    "breadcrumb": [
+      "Inicio",
+      "Tema 4"
+    ],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "4.1 Principios orientadores",
+        "anchor": "tema4-1"      
+      }      
+    ]  
+  }
+]
