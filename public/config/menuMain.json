@@ -48,7 +48,7 @@
     "submenu": [
       {
         "icon": "fa fa-file-text",
-        "slug": "componentes-bs",
+        "slug": "marcoestrategico",
         "title": "4.1 Principios orientadores",
         "anchor": "tema4-1"      
       }      
