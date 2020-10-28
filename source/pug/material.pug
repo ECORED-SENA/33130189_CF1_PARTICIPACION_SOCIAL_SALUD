@@ -36,7 +36,7 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('play', '1. Introducción', '#introduccion')
+                                    +navTemaItem('1', 'Introducción', '#introduccion')
                                     +navTemaItem('2', 'Antecedentes', '#tema-1')
                                     +navTemaItem('3', 'Normatividad', '#tema-2')
                                     +navTemaItem('4', 'Marco estratégico', '#tema-3')
@@ -48,11 +48,11 @@ html(lang="es")
         section#mainContent         
             #introduccion
                 include pages/introduccion.pug
-            #tema-2
+            #tema-1
                 include pages/1-tema.pug
-            #tema-3
+            #tema-2
                 include pages/2-tema.pug
-            #tema-4
+            #tema-3
                 include pages/3-tema.pug                                          
             #glosario
                 include pages/glosario.pug
